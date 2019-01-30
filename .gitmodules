@@ -1,0 +1,9 @@
+[submodule "P01_MyTunez"]
+	path = P01_MyTunez
+	url = https://github.com/jaredasch/MyTunez.git
+[submodule "P02_CaschShell"]
+	path = P02_CaschShell
+	url = https://github.com/jaredasch/casch-shell.git
+[submodule "P03_SlickyWiki"]
+	path = P03_SlickyWiki
+	url = https://github.com/jaredasch/Slicky-Wiki.git
